@@ -1,0 +1,24 @@
+{
+	"orgname": "zeyobron",
+	"trainer": "Sudipeee",
+	"address": {
+		"permanentAddress": "Hyderabad",
+		"temporaryAddress": "Chennai"
+	},
+	"Students": [{
+
+			"user": {
+				"name": "srini",
+				"age": 56
+			}
+		},
+
+
+		{
+			"user": {
+				"name": "anil",
+				"age": 45
+			}
+		}
+	]
+}
